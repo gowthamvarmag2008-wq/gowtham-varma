@@ -1,0 +1,7 @@
+{
+  "name": "Smart Trip Guide",
+  "description": "A premium, mobile-first travel companion that uses AI to personalize your trips, provide local insights, and manage emergencies.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
